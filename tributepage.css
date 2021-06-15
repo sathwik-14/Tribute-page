@@ -1,0 +1,31 @@
+#main{background-color:hsl(128,0%,90%);
+font-family:Balsamiq Sans;
+border-radius:0.5%;
+  padding:1px;
+}
+h1 {font-size:50px;
+text-align:center;} 
+h3{
+  margin:-25px;
+  text-align:center;}
+#img-div {
+  background-color:#FFF;
+  margin:50px;
+  padding:10px;
+  border-radius:1%;
+  text-align:center;
+  }
+img{max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;}
+ul{display: inline-block; text-align:left;
+  margin-left:150px;
+  font-size:20px;
+}
+p{text-align:center;}
+#tribute-info{text-align:center;
+  }
+footer{font-size:20px;
+text-align:center;
+font-style: italic;}
