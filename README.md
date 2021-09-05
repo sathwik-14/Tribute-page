@@ -1,5 +1,5 @@
 # Tribute-page
-Assignment-1 for a 1 month training in web dev on devincept.
+
 
 A beginner Project in front-end web Development.
 
